@@ -1,2 +1,3 @@
 Hello!!!!
 this is a change from branch feature-update!
+this is for stage changes diff
